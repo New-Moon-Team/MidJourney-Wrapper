@@ -132,5 +132,3 @@ staticfiles
 node_modules/
 
 package-lock.json
-
-Globals.py
